@@ -5,15 +5,18 @@ public class Example {
 
 		
 
-		long j=88;
+		int i=88;
 		String str = "test";
 		System.out.println("Hello World4");
 		System.out.println("name " + str);
 
-		System.out.println("num: "+ j);
-
 		
+		display(i);		
 
+	}
+	
+	public static void display(int i){
+		System.out.println("display number is :" + i);
 	}
 
 }
