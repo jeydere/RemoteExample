@@ -5,12 +5,12 @@ public class Example {
 
 		
 
-		Long b =5L;
-		String name = "test";
-		System.out.println("Hello World3");
-		System.out.println("name " + name);
+		int i =8;
+		String str = "test";
+		System.out.println("Hello World4");
+		System.out.println("name " + str);
 
-		System.out.println("number: "+ b);
+		System.out.println("number: "+ i);
 
 		
 
